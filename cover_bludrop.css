@@ -29,7 +29,7 @@ font-weight: 600;
 html,
 body {
   height: 100%;
-  background: #333 url('../ce/img/stripey-bg-11.png');
+  background: #333 url('stripey-bg-11.png');
 }
 body {
 font-family: Cabin, sans-serif;
